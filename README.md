@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EmanuelCottarel
 - 👀 I’m interested in Informatic, cinema, photography
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning PHP
+- 📚 I know HTML / CSS / JS / MySQL
 - 📫 How to reach me: emanuelcottarel@gmail.com
 
 <!---
