@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EmanuelCottarel
-- 👀 I’m interested in Informatic, cinema, photography
-- 🌱 I’m currently learning PHP
-- 📚 I know HTML / CSS / JS / MySQL
+- 💼 I'm working at Tecken in Montpellier, France
+- 📚 Current work project: ApiPlatform/Angular webapp
 - 📫 How to reach me: emanuelcottarel@gmail.com
 
 <!---
