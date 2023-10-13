@@ -9,9 +9,9 @@
 
 ## Compétences
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelCottarel&theme=radical&hide_langs_below=7">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelCottarel&theme=shadow_blue&hide_langs_below=7">
 
-- **Langages :** HTML, CSS, JavaScript (Typescript), PHP
+- **Langages :** JavaScript (Typescript), PHP
 - **Frameworks :** Angular, React, Symfony, ApiPlatform
 - **Base de données :**  MySQL
 - **Outils :** Git, Docker, Postman
