@@ -3,7 +3,7 @@
 - :house: Montpellier, France
 - 📚 Projet professionnel actuel: Application ApiPlatform/Angular permettant de gérer des ressources humaines d'une entreprise
 - 📫 Me contacter:
-  - [email](emanuelcottarel@gmail.com)
+  - emanuelcottarel@gmail.com
   - [linkedIn](https://www.linkedin.com/in/emanuel-cottarel-b35019234/)
 
 
