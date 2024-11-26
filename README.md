@@ -1,5 +1,5 @@
 # Emanuel Cottarel
-- 💼 [TeckenESN](https://www.tecken.fr/)
+- 💼 [iOcean](https://www.iocean.fr/)
 - :house: Montpellier, France
 - 📚 Projet professionnel actuel: Application ApiPlatform/Angular permettant de gérer des ressources humaines d'une entreprise
 - 📫 Me contacter:
