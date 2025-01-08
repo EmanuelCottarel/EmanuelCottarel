@@ -1,7 +1,6 @@
 # Emanuel Cottarel
 - 💼 [iOcean](https://www.iocean.fr/)
 - :house: Montpellier, France
-- 📚 Projet professionnel actuel: Application ApiPlatform/Angular permettant de gérer des ressources humaines d'une entreprise
 - 📫 Me contacter:
   - emanuelcottarel@gmail.com
   - [linkedIn](https://www.linkedin.com/in/emanuel-cottarel-b35019234/)
@@ -11,9 +10,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelCottarel&theme=shadow_blue&hide_langs_below=7">
 
-- **Langages :** JavaScript (Typescript), PHP
-- **Frameworks :** Angular, React, Symfony, ApiPlatform
-- **Base de données :**  MySQL
+- **Langages :** Java, JavaScript (Typescript), PHP
+- **Frameworks :** Angular, React, Symfony, ApiPlatform, Spring
+- **Base de données :**  MySQL, POSTGRE
 - **Outils :** Git, Docker, Postman
 
 &nbsp;
